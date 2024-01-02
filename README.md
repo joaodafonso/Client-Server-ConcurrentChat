@@ -1,5 +1,4 @@
-# Welcome to GitHub Desktop!
+# Client Server Concurrent Chat Server
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+This was an exercise during the bootcamp #CodeForAll where I was challenged to do a Client-Server chat using concurrency.
+I also added a feature which you're obligated to give an username before you're actually ready to chat.
